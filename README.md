@@ -1,0 +1,4 @@
+# DS-Unit-2-Build
+
+The variables included in the dataset involve the community, such as the percent of the population considered urban, and the median family income, and involving law enforcement, such as per capita number of police officers, and percent of officers assigned to drug units. The crime features that could be predicted are the 8 crimes considered (Murders, Rape, Robbery, …. ), per capita (actually per 100,000 population) versions of each, and Per Capita Violent Crimes and Per Capita Nonviolent Crimes. I used 'houseVacant','pctHousOccup','pctHousOwnerOccup','pctVacantBoarded','pctVacant6up','pctUnemploy','pctEmploy' to make a linear regression model. 
+A matrix plot was created which showed that there was a positive correlation between violence, vacancies and homelessness with the police budget.
